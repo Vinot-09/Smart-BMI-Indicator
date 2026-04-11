@@ -9,5 +9,3 @@ This project automatically measures height and weight to calculate BMI using sen
 - Ultrasonic Sensor
 - LCD Display
 
-## Project Setup
-![Project Setup](project-setup.jpg)
